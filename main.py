@@ -402,7 +402,7 @@ def execute_jupyter_script():
         print(result.stdout)
 
 
-# ф-ція переходу за посиланням для відображення частини проекту, що створена у Power BI
+# ф-ція переходу за посиланням для відображення частини проєкту, що створена у Power BI
 def load_link():
     # посилання на web-версію Power BI
     link = "https://app.powerbi.com/view?r=eyJrIjoiOTJjOGI4YzMtMTM4NS00MzI5LThkODUtYzM2ZWJiYjBiZjM3IiwidCI6ImU0YjU0MWFlLTA0ZTktNGZiZS1iZjkyLTU0ODQ4NTNkZDEwMyJ9"
@@ -535,7 +535,7 @@ def main():
     print("* III. ДОСЛІДНИЦЬКИЙ АНАЛІЗ ДАНИХ (EDA) *")
     print("*****************************************")
 
-    # перехід за посиланням для відображення частини проекту, що створена у Power BI
+    # перехід за посиланням для відображення частини проєкту, що створена у Power BI
     load_link()
 
     print("********************************************************")
