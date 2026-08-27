@@ -1,0 +1,13 @@
+.DS_Store
+desktop.ini
+.env
+.venv
+# exclude venv files
+bin
+lib
+Lib
+pyvenv.cfg
+include
+Include
+Scripts
+share
