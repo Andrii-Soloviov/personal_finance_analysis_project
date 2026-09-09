@@ -134,7 +134,7 @@
 
 &emsp;<img width="994" height="526" alt="descriptive_statistics" src="https://github.com/user-attachments/assets/0ca9f7a2-88b5-422f-b05c-d41cd3d62f51" />
 
-- запуск jupyter-скрипта, що виконує основну частину аналізу. Вихідні результати мають [вигляд](https://andrii-soloviov.github.io/link_to_pfa_results/).
+- запуск [jupyter-скрипта](https://github.com/Andrii-Soloviov/personal_finance_analysis_project/blob/main/data/jupyter/part_in_jupyter.ipynb), що виконує основну частину аналізу. Вихідні результати мають [вигляд](https://andrii-soloviov.github.io/link_to_pfa_results/).
   
 ---
 
