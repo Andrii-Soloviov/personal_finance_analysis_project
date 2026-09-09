@@ -134,7 +134,7 @@
 
 &emsp;<img width="994" height="526" alt="descriptive_statistics" src="https://github.com/user-attachments/assets/0ca9f7a2-88b5-422f-b05c-d41cd3d62f51" />
 
-- запуск jupyter-скрипта, що виконує основну частину аналізу. Вихідні результати мають вигляд: [outputs_in_jupyter.html](data/jupyter/outputs_in_jupyter.html).
+- запуск jupyter-скрипта, що виконує основну частину аналізу. Вихідні результати мають [вигляд](https://andrii-soloviov.github.io/outputs_in_jupyter/).
   
 ---
 
