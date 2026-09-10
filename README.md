@@ -30,7 +30,7 @@
 
 ## Опис та структура :pencil2:
 
-- Задіяні інструменти: *Jupyter Notebook*, *DBeaver (postgresql)*, *Docker*, *Visual Studio Code*, *Power BI*, *Excel*, *Git Bash*, *GitHub*, *ChatGPT*.
+- Задіяні інструменти: *Visual Studio Code*, *Jupyter Notebook*, *DBeaver (postgresql)*, *Power BI*, *Excel*, *Git Bash*, *GitHub*, *ChatGPT*, *Docker*.
 - Використані бібліотеки та пакети Python: [requirements.txt](requirements.txt).
 - Інструкція до підготовки та запуску проєкту: [project_launch.md](project_launch.md).
 - Проєктне середовище: *Command Prompt* (Windows) або *Terminal* (MacOS, Linux).
